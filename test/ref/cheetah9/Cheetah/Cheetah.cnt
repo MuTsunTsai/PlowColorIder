@@ -1,0 +1,51 @@
+:Base Cheetah.hlp
+:Title Cheetah
+1 About
+2 Cheetah=Cheetah
+2 New=New
+2 Bugfixes=Bugfixes
+2 Updates=Updates
+2 Directory structure=Directory_structure
+1 Introduction
+2 Topic Tree=Topic_Tree
+2 Topic properties=Topic_properties
+2 Keywords Tree=Keywords_Tree
+2 Links Tree=Links_Tree
+2 MAP List=MAP_List
+2 Navigation=Navigation
+2 Export Chapter=Export_Chapter
+2 Import Chapter=Import_Chapter
+1 Tutorial
+2 Getting Started=Getting_Started
+1 Help Topics
+2 Help Topic=Help_Topic
+2 Help Context=Help_Context
+2 Heading Image=Heading_Image
+2 Syntax=Syntax
+2 Hotspots=Hotspots
+2 Buttons=Buttons
+2 Images=Images
+2 ExecFile Macro=ExecFile_Macro
+2 Keywords
+3 Keywords=Keywords
+3 ALink Keywords=ALink_Keywords
+3 KLink jumps=KLink_jumps
+1 Help Projects
+2 Help Project=Help_Project
+2 Contents File=Contents_File
+1 Editor
+2 Topic Editor=Topic_Editor
+2 Paragraphs=Paragraphs
+2 Tips=Tips
+2 Keys=Keys
+2 Files=Files
+2 Find and Replace=Find_and_Replace
+2 Print=Print
+2 Smart Replace=Smart_Replace
+1 Tools
+2 Help Compiler Workshop=Help_Compiler_Workshop
+2 Import Pascal=Import_Pascal
+2 Component Help=Component_Help
+2 AutoCompletion=AutoCompletion
+2 Import RTF=Import_RTF
+2 Include Files=Include_Files
