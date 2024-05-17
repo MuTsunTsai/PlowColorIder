@@ -1,4 +1,0 @@
-ws
-={\b\cf1 WebSite}
-=
-={\uldb http://members.xoom.com/JanVee/freeware.htm}{\v !ExecFile(http://members.xoom.com/JanVee/freeware.htm)}
